@@ -1,0 +1,15 @@
+# It's recommended to change every "TablistPlus" to your servers name
+
+tablist:
+  header:
+    - ""
+    - "&4Tablist&3Plus"
+    - ""
+    - "&6This the default Tablist for TablistPlus"
+    - ""
+  footer:
+    - ""
+    - "&3%tps% tps — %players% players — %ping% ping — %uptime% uptime"
+    - ""
+    - "&7contact: christallinqq#0001""
+    - ""

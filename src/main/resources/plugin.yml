@@ -1,0 +1,10 @@
+name: TablistPlus
+version: ${project.version}
+main: me.christallinqq.tablistplus
+authors: [Christallinqq]
+description: ${project.description}
+softdepend: [PlaceholderAPI]
+commands:
+  tabrconfig:
+    description: Reload the config
+    usage: /tabrconfig
